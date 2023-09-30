@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Himadri018/Himadri018/output/snake.svg" alt="Snake animation" />
+<img src="https://i.pinimg.com/originals/a9/2c/36/a92c36b728a5ccab8972f6b9f1f0dc0a.gif" alt="Snake animation" />
 
 ###
